@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+openresty/openresty registry.cn-heyuan.aliyuncs.com/pipiing/openresty/openresty
